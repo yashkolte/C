@@ -9,7 +9,7 @@
 
 # include<stdio.h>  //Pre prossesor directive
 
-// Types of constant: 1. Interger Constant    2. Real Constant      3. Charactor Constant
+// Types of constant: 1. Interger Constant    2. Real Constant      3. Charactor Constant (Must be in single inverted commas)
                 //    1. 1,2,3,4,5...         2. 1.25,3.54...       3. '@','a','J'... 
       
 int main(){
