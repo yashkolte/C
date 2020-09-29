@@ -2,7 +2,7 @@
 
 int main()
 {
-    // 97-122 = a-z
+    // 97-122 = a-z ASCII values
     char ch;
     printf("Enter the charecter\n");
     scanf("%c", &ch);
