@@ -20,7 +20,7 @@ int main()
         if (n % i == 0)
         {
             prime = 0;
-            i++; 
+            i++;
             break;
         }
     }
